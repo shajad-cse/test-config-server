@@ -3,7 +3,7 @@ spring:
     show-sql: true
 
 insurnace:
-  provider: "TEST SECOND URL"
+  provider: "TEST2 SECOND URL"
 
 
 
