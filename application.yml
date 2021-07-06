@@ -1,1 +1,6 @@
-insurnace.provider.url=TEST URL
+spring:
+  jpa:
+    show-sql: true
+
+insurnace:
+  provider: "TEST URL"
