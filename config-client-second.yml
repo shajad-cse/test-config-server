@@ -1,0 +1,9 @@
+spring:
+  jpa:
+    show-sql: true
+
+insurnace:
+  provider: "TEST SECOND URL"
+
+
+
