@@ -3,4 +3,4 @@ spring:
     show-sql: true
 
 insurnace:
-  provider: "TEST111111 URL11111"
+  provider: "TEST111111 URL1111122222"
